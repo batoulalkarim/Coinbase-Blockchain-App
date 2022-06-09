@@ -20,6 +20,10 @@ export default function Home() {
           You need Chrome to be 
           <br /> able to run this app.
         </Details>
+        <Details>
+          You also need to be
+          <br /> on the Rinkeby Test Network to Login.
+        </Details>
      </WalletConnect>
      )}
      
